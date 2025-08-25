@@ -24,11 +24,5 @@ This repository contains example R scripts for single-nucleus RNA-seq (snRNA-seq
 - Scripts are intended as modular workflow examples, not a complete automated pipeline.
 - Paths and resource parameters are example values; adjust as needed for your local environment and data.
 
-## Requirements
 
-- R (version 4.0+ recommended)
-- [Seurat](https://satijalab.org/seurat/)
-- [DoubletFinder](https://github.com/chris-mcginnis-ucsf/DoubletFinder)
-- [Harmony](https://github.com/immunogenomics/harmony)
-- Standard tidyverse packages: dplyr, ggplot2, tidyr, etc.
 
